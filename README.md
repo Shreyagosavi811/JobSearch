@@ -1,17 +1,17 @@
-# 💼 JobSearch Portal
+#  JobSearch Portal
 
 A **modern web platform** that connects job seekers and employers seamlessly — designed and developed to simplify the hiring process with user-friendly interfaces and real-time listings.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The **JobSearch Website** allows users to **search, apply, and post jobs** easily. It includes secure **authentication**, **PDF export for resumes**, and **dynamic job management** for employers.  
 This project demonstrates **full-stack web development** skills, focusing on clean UI, responsiveness, and Firebase integration.
 
 ---
 
-## 🖥️ Features
+##  Features
 
 ✅ **User Authentication** – Secure Login & Signup (Firebase Auth)  
 ✅ **Job Listings** – View all available jobs with filters  
@@ -24,9 +24,9 @@ This project demonstrates **full-stack web development** skills, focusing on cle
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
-### 💻 Frontend
+###  Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tech" />
 </p>
@@ -37,7 +37,7 @@ This project demonstrates **full-stack web development** skills, focusing on cle
 
 ---
 
-### 🔥 Backend & Database
+###  Backend & Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </p>
@@ -59,16 +59,7 @@ This project demonstrates **full-stack web development** skills, focusing on cle
 
 ---
 
-## 🎨 UI Design
 
-- Background:  
-  ```css
-  background: linear-gradient(
-    90deg,
-    rgba(37, 99, 235, 0.35),
-    rgba(16, 185, 129, 0.35)
-  );
-color: #0f172a; /* Deep navy blue for better contrast */
 # Clone the repository
 git clone https://github.com/yourusername/jobsearch-portal.git
 
